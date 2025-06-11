@@ -1,4 +1,40 @@
 # Ecommerce
-Sir, in the interview you said that you will check my GitHub and I want to tell you one thing I am new to GitHub. I completed all my projects in my 3rd year and then I came to know about the GitHub in 4th year before that I uploaded my files with upload option in GitHub. 
-In the interview I forgot to tell you about this. And after that I don't know how to contact you regarding this problem. I hope you will read this and understand.
-Thank you You can check my previous work Blog management system.
+Admin
+First, run the development server:
+
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+Open http://localhost:3000 with your browser to see the result.
+
+You can start editing the page by modifying pages/index.js. The page auto-updates as you edit the file.
+
+API routes can be accessed on http://localhost:3000/api/hello. This endpoint can be edited in pages/api/hello.js.
+
+The pages/api directory is mapped to /api/*. Files in this directory are treated as API routes instead of React pages.
+
+This project uses next/font to automatically optimize and load Inter, a custom Google Font.
+
+User
+First, run the development server:
+
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+Open http://localhost:3000 with your browser to see the result.
+
+You can start editing the page by modifying pages/index.js. The page auto-updates as you edit the file.
+
+API routes can be accessed on http://localhost:3000/api/hello. This endpoint can be edited in pages/api/hello.js.
+
+The pages/api directory is mapped to /api/*. Files in this directory are treated as API routes instead of React pages.
+
+This project uses next/font to automatically optimize and load Inter, a custom Google Font.
